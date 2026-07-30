@@ -1,8 +1,27 @@
 aid: maxwell-financial
 name: Maxwell Financial
-description: Maxwell Financial is a company surfaced as a portfolio company of techstars and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Maxwell is an end-to-end mortgage-origination technology and services company
+  serving banks, independent mortgage banks, and credit unions. Its platform
+  spans a customizable borrower Point of Sale, a Lender Hub for loan officers
+  (pipeline, application processing, document validation, underwriting, and
+  pricing), Business Intelligence analytics, and outsourced services including
+  Maxwell Fulfillment (processing, underwriting, closing), Maxwell Diligence
+  (QC and due diligence), and Private Label Origination. The product is a hosted
+  SaaS delivered through login-gated lender and borrower hubs with a public
+  documentation hub; it does not publish an open, versioned developer API.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://himaxwell.net/wp-content/uploads/2021/10/cropped-Favicon-192x192.png
 url: https://raw.githubusercontent.com/api-evangelist/maxwell-financial/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Mortgage
+- Lending
+- Fintech
+- Financial Services
+- Loan Origination
+- Mortgage Technology
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,33 @@ maintainers:
 common:
 - type: Website
   url: https://himaxwell.com/
+- type: Documentation
+  url: https://docs.himaxwell.com/
+- type: Support
+  url: https://docs.himaxwell.com/
+- type: Blog
+  url: https://himaxwell.com/resources/?type=blog-posts
+- type: SignIn
+  url: https://himaxwell.com/sign-in
+- type: TermsOfService
+  url: https://himaxwell.net/terms
+- type: PrivacyPolicy
+  url: https://himaxwell.net/privacy
+- type: StatusPage
+  url: https://status.himaxwell.com/
+- type: ChangeLog
+  url: https://docs.himaxwell.com/release-notes/release-notes-overview.md
+- type: ChangeLog
+  name: Release notes changelog artifact
+  url: changelog/maxwell-financial-changelog.yml
+- type: Lifecycle
+  url: lifecycle/maxwell-financial-lifecycle.yml
+- type: LLMsTxt
+  url: llms/maxwell-financial-llms.txt
+- type: DomainSecurity
+  url: security/maxwell-financial-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
