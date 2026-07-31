@@ -1,0 +1,19 @@
+generated: '2026-07-20'
+method: searched
+source: https://docs.himaxwell.com/release-notes/release-notes-overview.md
+versioning:
+  scheme: dated-release-notes
+  docs: https://docs.himaxwell.com/release-notes/release-notes-overview.md
+  notes: >-
+    Maxwell is a hosted SaaS mortgage-origination platform. It does not publish a
+    public, versioned API; changes are shipped continuously and communicated via
+    dated release notes (2020 through 2026) in the documentation hub.
+deprecation:
+  policy_url: null
+  sunset_header: null
+  notes: No public deprecation policy or RFC 8594 Sunset/Deprecation header support found.
+sla:
+  url: null
+  uptime_target: null
+status_page: https://status.himaxwell.com/
+deprecated_operations: []

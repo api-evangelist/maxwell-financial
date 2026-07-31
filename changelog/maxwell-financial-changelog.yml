@@ -1,0 +1,43 @@
+generated: '2026-07-20'
+method: searched
+source: https://docs.himaxwell.com/release-notes/release-notes-overview.md
+scheme: dated-release-notes
+current_version: '2026-07-14'
+docs: https://docs.himaxwell.com/release-notes/2026-release-notes.md
+notes: >-
+  Maxwell publishes a dated release-notes changelog spanning 2020-2026 in its
+  documentation hub. Entries below capture the recent 2026 window (titles as
+  listed in the docs index); full per-release detail lives at each linked page.
+entries:
+- version: '2026-07-14'
+  date: '2026-07-14'
+  title: July 14th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/july-14th-2026-release-notes.md
+- version: '2026-07-08'
+  date: '2026-07-08'
+  title: July 8th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/july-8th-2026-release-notes.md
+- version: '2026-06-03'
+  date: '2026-06-03'
+  title: June 3rd, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/june-3rd-2026-release-notes.md
+- version: '2026-05-06'
+  date: '2026-05-06'
+  title: May 6th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/may-6th-2026-release-notes.md
+- version: '2026-04-09'
+  date: '2026-04-09'
+  title: April 9th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/april-9th-2026-release-notes.md
+- version: '2026-03-04'
+  date: '2026-03-04'
+  title: March 4th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/march-4th-2026-release-notes.md
+- version: '2026-02-11'
+  date: '2026-02-11'
+  title: February 11th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/february-11th-2026-release-notes.md
+- version: '2026-01-14'
+  date: '2026-01-14'
+  title: January 14th, 2026 Release Notes
+  url: https://docs.himaxwell.com/release-notes/2026-release-notes/january-14th-2026-release-notes.md
