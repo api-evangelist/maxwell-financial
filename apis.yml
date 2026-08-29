@@ -10,6 +10,17 @@ description: >-
   (QC and due diligence), and Private Label Origination. The product is a hosted
   SaaS delivered through login-gated lender and borrower hubs with a public
   documentation hub; it does not publish an open, versioned developer API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
